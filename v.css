@@ -1,0 +1,23 @@
+body{
+margin: 0px;
+padding: 0px;
+text-align: center;
+background-image: linear-gradient(to right,yellow,red);
+}
+h1{
+    font-size: 50px;
+    color: #0077ff;
+}
+input{
+    width: 60px;
+    height: 30px;
+    font-size: 20.25px;
+    border-radius: 10px;
+    margin: 7px;
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
